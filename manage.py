@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#Здесь был Артур
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'helloworld.settings')
     try:
